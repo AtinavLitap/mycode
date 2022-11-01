@@ -26,11 +26,11 @@ func main() {
         {"Aston", 32, "Pluto", true},
     }
     
-    s := nasaMission { p, 3, "success"}
+    s := nasaMission{ p, 3, "success"}
 
 
 
     fmt.Println(s)
-
+    fmt.Printf("%+v", s)
 
 }
