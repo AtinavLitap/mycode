@@ -1,0 +1,2 @@
+The text color is {{.textColor}} and the link color is {{.linkColorHover}}
+
